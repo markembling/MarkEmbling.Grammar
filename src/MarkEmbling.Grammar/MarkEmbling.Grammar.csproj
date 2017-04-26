@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.1</TargetFramework>
+    <PackageLicenseUrl>https://github.com/markembling/MarkEmbling.Grammar/blob/master/LICENSE</PackageLicenseUrl>
+    <Copyright>Copyright © Mark Embling 2017</Copyright>
+    <Description />
+    <Company>Mark Embling</Company>
+    <Authors>Mark Embling</Authors>
+    <PackageProjectUrl>https://github.com/markembling/MarkEmbling.Grammar</PackageProjectUrl>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
