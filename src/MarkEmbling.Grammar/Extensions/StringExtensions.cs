@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using MarkEmbling.Grammar.Rules;
+using System.Collections.Generic;
 
 namespace MarkEmbling.Grammar.Extensions {
     public static class StringExtensions {

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using MarkEmbling.Utilities.Extensions;
-using MarkEmbling.Utilities.Grammar.Rules;
 using Xunit;
+using MarkEmbling.Grammar.Rules;
+using MarkEmbling.Grammar.Extensions;
 
 namespace MarkEmbling.Grammar.Tests {
     public class StringGrammarExtensionsTests {

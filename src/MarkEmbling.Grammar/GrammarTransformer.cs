@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using MarkEmbling.Utilities.Grammar.Rules;
+using MarkEmbling.Grammar.Rules;
 
-namespace MarkEmbling.Utilities.Grammar {
+namespace MarkEmbling.Grammar {
     /// <summary>
     /// Applies a set of grammar transform rules on input strings
     /// </summary>

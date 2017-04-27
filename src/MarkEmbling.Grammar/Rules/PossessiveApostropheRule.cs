@@ -1,6 +1,6 @@
 using MarkEmbling.Utilities.Extensions;
 
-namespace MarkEmbling.Utilities.Grammar.Rules {
+namespace MarkEmbling.Grammar.Rules {
     /// <summary>
     /// Apply an apostrophe to all input strings ending in S
     /// </summary>

@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using MarkEmbling.Grammar.Rules;
+using System.Collections.Generic;
 using Xunit;
 
 namespace MarkEmbling.Grammar.Tests {

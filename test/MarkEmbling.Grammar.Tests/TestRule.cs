@@ -1,4 +1,4 @@
-﻿using MarkEmbling.Utilities.Grammar.Rules;
+﻿using MarkEmbling.Grammar.Rules;
 
 namespace MarkEmbling.Grammar.Tests {
     /// <summary>

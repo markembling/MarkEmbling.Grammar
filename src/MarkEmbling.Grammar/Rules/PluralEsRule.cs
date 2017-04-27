@@ -1,6 +1,6 @@
 using MarkEmbling.Utilities.Extensions;
 
-namespace MarkEmbling.Utilities.Grammar.Rules {
+namespace MarkEmbling.Grammar.Rules {
     /// <summary>
     /// Apply "es" to the end of all words ending in S or O
     /// </summary>

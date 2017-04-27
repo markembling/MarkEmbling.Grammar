@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace MarkEmbling.Utilities.Grammar.Rules {
+namespace MarkEmbling.Grammar.Rules {
     /// <summary>
     /// Basic naive rule which swaps specific singular words with their possessive equivilent.
     /// </summary>

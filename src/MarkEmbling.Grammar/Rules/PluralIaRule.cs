@@ -1,6 +1,7 @@
+using MarkEmbling.Grammar.Rules;
 using System;
 
-namespace MarkEmbling.Utilities.Grammar.Rules {
+namespace MarkEmbling.Grammar.Rules {
     /// <summary>
     /// Replace the "ium" on the end of a word with "ia"
     /// </summary>

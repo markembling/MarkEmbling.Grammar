@@ -1,6 +1,6 @@
 using System;
 
-namespace MarkEmbling.Utilities.Grammar.Rules {
+namespace MarkEmbling.Grammar.Rules {
     /// <summary>
     /// Replace the "us" on the end of a word with "i"
     /// </summary>
