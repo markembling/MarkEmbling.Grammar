@@ -6,6 +6,10 @@ namespace MarkEmbling.Grammar.Rules {
     /// </summary>
     public class PluralBasicExceptionalCasesRule : IGrammarTransformRule {
         private readonly IDictionary<string, string> _exceptions = new Dictionary<string, string> {
+            {"man", "men"},
+            {"woman", "women"},
+            {"child", "children"},
+            
             {"goose", "geese"},
             {"louse", "lice"},
             {"mouse", "mice"},
