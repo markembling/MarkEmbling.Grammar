@@ -18,6 +18,7 @@ namespace MarkEmbling.Grammar.Rules {
         /// Rule set for converting a singular word to a plural form.
         /// </summary>
         public static IEnumerable<IGrammarTransformRule> Plural = new List<IGrammarTransformRule> {
+            new PluralUncountableCasesRule(),
             new PluralBasicExceptionalCasesRule(),
             new PluralIaRule(),
             new PluralIRule(),
