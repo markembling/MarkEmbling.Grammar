@@ -9,7 +9,7 @@
     <Authors>Mark Embling</Authors>
     <PackageProjectUrl>https://github.com/markembling/MarkEmbling.Grammar</PackageProjectUrl>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>1.0.0-pre1</Version>
+    <Version>1.0.0-alpha1</Version>
     <AssemblyVersion>1.0.0</AssemblyVersion>
     <FileVersion>1.0.0</FileVersion>
   </PropertyGroup>
