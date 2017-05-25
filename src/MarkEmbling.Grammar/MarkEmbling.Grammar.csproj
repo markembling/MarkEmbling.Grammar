@@ -4,7 +4,7 @@
     <TargetFramework>netstandard1.1</TargetFramework>
     <PackageLicenseUrl>https://github.com/markembling/MarkEmbling.Grammar/blob/master/LICENSE</PackageLicenseUrl>
     <Copyright>Copyright © Mark Embling 2017</Copyright>
-    <Description />
+    <Description>Library for manipulating words according to grammar rules including pluralisation, possession, etc.</Description>
     <Company>Mark Embling</Company>
     <Authors>Mark Embling</Authors>
     <PackageProjectUrl>https://github.com/markembling/MarkEmbling.Grammar</PackageProjectUrl>
