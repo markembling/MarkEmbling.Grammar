@@ -10,7 +10,7 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIconUrl>https://static.markembling.info/nuget/icons/MarkEmbling.Grammar.png</PackageIconUrl>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>1.0.0-alpha2</Version>
+    <Version>1.0.0-alpha3</Version>
     <AssemblyVersion>1.0.0</AssemblyVersion>
     <FileVersion>1.0.0</FileVersion>
   </PropertyGroup>
